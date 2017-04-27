@@ -1,0 +1,8 @@
+python-twitter
+feedparser==5.2.1
+oauthlib==2.0.1
+requests-oauthlib==0.8.0
+rssfilter==0.0.1
+tweepy==3.5.0
+twitter==1.17.1
+virtualenv==15.1.0
